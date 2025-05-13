@@ -73,5 +73,5 @@
 
 ### Wait for Deployment (~5–10 min)
 Once done, CloudFront gives you a domain like this
-![my website](mywebsite.png>)
+![my website](mywebsite.png)
 
